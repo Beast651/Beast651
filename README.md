@@ -9,7 +9,7 @@
 
 - 👨 This is My [Portfolio Website](https://beast-portfolio.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Beast651?tab=repositories](https://github.com/Beast651?tab=repositories)
+- 👨‍💻 All of my projects are available here [Click To Explore.](https://github.com/Beast651?tab=repositories)
 
 - 💬 Ask me about **C++, Html, CSS, Reactjs , Javascript and so on...**
 
