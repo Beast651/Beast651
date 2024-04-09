@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arifcool651@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZH6aU-B1ys9Y4eVHs8d4zLWD0sWwrOEF/view?usp=sharing](https://drive.google.com/file/d/1ZH6aU-B1ys9Y4eVHs8d4zLWD0sWwrOEF/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ZH6aU-B1ys9Y4eVHs8d4zLWD0sWwrOEF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
