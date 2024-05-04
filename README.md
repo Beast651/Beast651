@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available here [Click To Explore.](https://github.com/Beast651?tab=repositories)
 
-- 💬 Ask me about **C++, Html, CSS, Reactjs , Javascript and so on...**
+- 💬 Ask me about **C++, HTML, CSS, Reactjs , Javascript, MYSQL and so on...**
 
-- 📫 How to reach me **arifcool651@gmail.com**
+- 📫 How to reach me **arifsiddqui400@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Thh-qVlKb5u0kqhXhVwZHAQwcLn-s9VE/view?usp=sharing)
 
